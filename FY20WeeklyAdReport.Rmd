@@ -140,7 +140,7 @@ colorP <- c("#F6A704", "#0E1033","#4E7B14","#A92007","#D47E0A")
 ## Facebook Display   {.tabset .tabset-fade .tabset-pills}
 
 ### FB_UG
-
+ An evergreen campaign that needs status reporting every 60 days and informal checks every week. 
 
 ```{r  fig.height=2.5, fig.width=8, message=FALSE, warning=FALSE}
 IGD <- FMVM %>% 
